@@ -11,13 +11,13 @@
 	    			<ul class="navbar-nav mr-auto">
 	      				
 			      		<li class="nav-item">
-			        		<a class="nav-link" href="informacionpersonal.php" target="_blank">Informaciòn personal</a>
+			        		<a class="nav-link" href="informacionpersonal.php">Informaciòn personal</a>
 			      		</li>
 			      		<li class="nav-item">
-			        		<a class="nav-link" href="misproyectos.php" target="_blank">Mis proyectos</a>
+			        		<a class="nav-link" href="misproyectos.php" >Mis proyectos</a>
 			      		</li>
 			      		<li class="nav-item">
-			        		<a class="nav-link" href="contacto.php" target="_blank">Contacto</a>
+			        		<a class="nav-link" href="contacto.php">Contacto</a>
 
 			      		</li>
 

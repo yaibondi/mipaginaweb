@@ -28,14 +28,18 @@ p.textoHobby
 
 @media (max-width: 575px)
 {
+	.fa-facebook,.fa-instagram{
+			  
+			  font-size:20px;
 
+			}
 }
 
 @media (min-width: 576px) and (max-width: 767px)
 {
 	.fa-facebook,.fa-instagram{
 			  
-			  font-size:40px;
+			  font-size:20px;
 
 			}
 }
@@ -43,23 +47,23 @@ p.textoHobby
 {
 	.fa-facebook,.fa-instagram{
 			  
-			  font-size:40px;
+			  font-size:20px;
 
 			}
 	p.descAndrea{
-	font-size: 15px;
+	font-size: 60px;
 	}
 }
 @media (min-width: 992px) and (max-width: 1199px)
 {
 	p.descAndrea{
-	font-size: 10px;
+	font-size: 25px;
 	}
 }
 
 @media (min-width: 1200px)
 {
 	p.descAndrea{
-	font-size: 20px;
+	font-size: 25px;
 	}
 }
