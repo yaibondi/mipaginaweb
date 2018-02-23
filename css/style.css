@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css?family=Mukta+Malar|Nanum+Myeongjo');
+
+p.descAndrea{
+	
+	font-size:15px;
+
+}
+
+p.textoHobby
+{
+	font-family: 'Open Sans', sans-serif;
+}
+.fa-facebook,.fa-instagram{
+			  
+			  font-size:30px;
+
+			}
+.fa-facebook{
+
+			  color:blue;
+			}
+.fa-instagram{
+
+			  color:pink;
+			}			
+
+
+@media (max-width: 575px)
+{
+
+}
+
+@media (min-width: 576px) and (max-width: 767px)
+{
+	.fa-facebook,.fa-instagram{
+			  
+			  font-size:40px;
+
+			}
+}
+@media (min-width: 768px) and (max-width: 991px)
+{
+	.fa-facebook,.fa-instagram{
+			  
+			  font-size:40px;
+
+			}
+	p.descAndrea{
+	font-size: 15px;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px)
+{
+	p.descAndrea{
+	font-size: 10px;
+	}
+}
+
+@media (min-width: 1200px)
+{
+	p.descAndrea{
+	font-size: 20px;
+	}
+}
