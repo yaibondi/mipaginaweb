@@ -25,31 +25,31 @@
 					<h5>Escuchar musica</h5>
 					<p>Lorem ipsum dolor..</p>
 				</div>
-				
 			</div>
-			<div class="col-lg-6 col-sm-12">
-				<img class="img-fluid offset-3" src="img/bailar.jpg" alt="" title="">
-			    <h5>Bailar</h5>
-			    <p>Lorem ipsum dolor..</p>
-			</div>
-		</div>   
-
+			<div class="offset-3">
+					<img class="img-fluid" src="img/spotify.jpg" alt="" title="">
+					<h5>Bailar</h5>
+					<p>Lorem ipsum dolor..</p>
+				</div>
+		</div>
 		<div class="row">
 			<hr class="col-12">
-			<div class=" text-center">
-			  <h1>Preferencias</h1>
+			<div class="col-12 text-center">
+				<h1>Preferencias</h1>
 			</div>
-			<div class="col-sm-6">
-				<img src="img/Marketingdigital1.jpg" alt="" title="">
-				<h5>Marketing Digital</h5>
-				<p>Lorem ipsum dolor..</p>
+			<div class="col-lg-6 col-sm-12">
+				<div class="offset-3">
+					<img class="img-fluid" src="img/spotify.jpg" alt="" title="">
+					<h5>Marketing Digital</h5>
+					<p>Lorem ipsum dolor..</p>
+				</div>
 			</div>
-			<div class="col-sm-4 mt-2">
-				<img src="img/socialmedia.png" alt="" title="">
-				<h5>Redes sociales</h5>
-				<p>Lorem ipsum dolor..</p>
-			</div>
-			<hr class="col-12">
-		</div>   
-	
+			<div class="offset-3">
+					<img class="img-fluid" src="img/spotify.jpg" alt="" title="">
+					<h5>Manejo de Redes Sociales</h5>
+					<p>Lorem ipsum dolor..</p>
+				</div>
+		</div>
+
+			
 <?php include("inc/footer.php");?>
