@@ -1,6 +1,14 @@
 
 @import url('https://fonts.googleapis.com/css?family=Mukta+Malar|Nanum+Myeongjo');
+body
+{
+	background-color: lightblue;
+}
+h5
+{
+	background-color:grey;
 
+}
 p.descAndrea{
 	
 	font-size:15px;
@@ -23,7 +31,15 @@ p.textoHobby
 .fa-instagram{
 
 			  color:pink;
-			}			
+			}
+.escucharmusica
+{
+	color: black;
+	background-color: #ff8c1a;
+    background-color: yellow;
+    padding: 20px;
+}
+
 
 
 @media (max-width: 575px)
