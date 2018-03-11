@@ -2,11 +2,11 @@
 @import url('https://fonts.googleapis.com/css?family=Mukta+Malar|Nanum+Myeongjo');
 body
 {
-	background-color: lightblue;
+	background-color: ;
 }
 h5
 {
-	background-color:grey;
+	background-color:#4dd2ff;
 
 }
 p.descAndrea{
@@ -19,6 +19,13 @@ p.textoHobby
 {
 	font-family: 'Open Sans', sans-serif;
 }
+.escucharmusica,.bailar,.marketingDigital,.redesSociales
+{
+	color: black;
+	background-color:#ff6666 ;
+    padding: 20px;
+    border-radius: 20px;
+}
 .fa-facebook,.fa-instagram{
 			  
 			  font-size:30px;
@@ -30,15 +37,9 @@ p.textoHobby
 			}
 .fa-instagram{
 
-			  color:pink;
+			  color:#ff066a;
 			}
-.escucharmusica
-{
-	color: black;
-	background-color: #ff8c1a;
-    background-color: yellow;
-    padding: 20px;
-}
+
 
 
 
