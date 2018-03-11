@@ -64,8 +64,6 @@
 			<p class="redesSociales">Lorem ipsum dolor..</p>
 		</div>
 			<hr class="col-12">
-	
-
 
 
 
